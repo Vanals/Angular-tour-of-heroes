@@ -2,7 +2,7 @@
 
 This app has been developed in order to explore Angular and move the first steps in this new technology. It allows you to see a list of heroes, select one and the edit its name. Despite it is a simple app it includes the basic event of a webb app.
 
-!()[https://cdn-images-1.medium.com/max/800/1*-CO6qCdutDswYXt4geZgjw.png]
+![](https://cdn-images-1.medium.com/max/800/1*-CO6qCdutDswYXt4geZgjw.png)
 
 
 ## How to use

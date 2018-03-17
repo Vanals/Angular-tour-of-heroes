@@ -1,27 +1,30 @@
 # AngularTourOfHeroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
+This app has been developed in order to explore Angular and move the first steps in this new technology. It allows you to see a list of heroes, select one and the edit its name. Despite it is a simple app it includes the basic event of a webb app.
 
-## Development server
+!()[https://cdn-images-1.medium.com/max/800/1*-CO6qCdutDswYXt4geZgjw.png]
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## How to use
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1) Clone the project
+```
+git clone git@github.com:Vanals/Angular-tour-of-heroes.git
+```
 
-## Build
+2) Changes into the project directory on ur computer via Terminal
+```
+cd Angular-tour-of-heroes
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+3) Install the depedencies
+```
+npm install
+```
 
-## Running unit tests
+4) Open the app
+```
+npm start
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+5) Enjoy!
